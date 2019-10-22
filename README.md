@@ -1,4 +1,12 @@
 # C-Group-Project
+Event HUB aims to provide a platform where anyone can create, edit or join an event. By creating an event, the user immediately becomes an event coordinator where they can specify the event name, whether or not they would like the event to be free, the type of event and the location of the event.
+
+Any user can create an account and events, however, only the Admin is able to save and load database files. Additionally, when a user creates an account, their passwords are immediately encrypted and when the admin saves the database file, the whole file is encrypted.
+
+Once the events have been created, the event coordinator is able to add staff or simply edit any important event details. If a user decides they want to join an event as a patron, then their details are added to the event.
+It is important to note that whilst our idea has been inspired by the university society system, we have not designed our criteria, specifically for UTS as we decided to create a broad design for the benefit and use of everyone.
+
+
 Setup:\
 Download GitHub Desktop\
 Go to the Git Project Page " https://github.com/KaylaGel/C-Group-Project "\
